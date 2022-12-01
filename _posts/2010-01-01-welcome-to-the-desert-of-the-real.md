@@ -17,7 +17,7 @@ tags:
 author: mranderson
 paginate: true
 ---
-Hoi, Ik ben vivien. Ik ben 27 jaar oud, en studeer Creative business aan de hogeschool Saxion. MIjn hobby's zijn content maken voor Tiktok.
+Hoi, Ik ben vivien. Ik ben 27 jaar oud, en studeer Creative business aan de hogeschool Saxion. Mijn hobby's zijn content maken voor Tiktok. Ik heb een grote passie voor het maken van projecten waar ik een creatieve visie over heb.
 
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
