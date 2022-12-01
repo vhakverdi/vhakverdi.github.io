@@ -1,8 +1,8 @@
 ---
 date: 2019-05-16T23:48:05.000Z
 layout: post
-title: Welcome to the desert of the vivien
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: Mijn sollicitatie brief
+subtitle: 'Een kijkje naar mijn vorige projecten'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
