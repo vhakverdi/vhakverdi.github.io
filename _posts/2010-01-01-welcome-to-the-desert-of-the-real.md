@@ -7,7 +7,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
   
-image: [placeholder](https://placehold.it/800x400 "Large example image") 
+image: <img src="/assets/img/WhatsApp Image 2022-11-29 at 10.16.01.jpeg" alt="">
 
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png
 category: blog
