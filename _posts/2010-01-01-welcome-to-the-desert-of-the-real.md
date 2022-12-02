@@ -7,7 +7,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
   
-image: /assets/img/WhatsApp Image 2022-11-29 at 10.16.01.jpeg
+image: https://github.com/moscovium115/moscovium115.github.io/blob/master/assets/img/WhatsApp%20Image%202022-11-29%20at%2010.16.01.jpeg
 
 
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png
