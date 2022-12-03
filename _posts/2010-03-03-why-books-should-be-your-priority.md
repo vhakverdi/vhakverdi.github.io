@@ -2,8 +2,8 @@
 date: 2022-11-2T23:48:05.000Z
 layout: post
 title: Introductie
-subtitle: Een korte introductie van mezelf
-description: >-
+subtitle: Een korte introductie over mezelf
+description: Een korte introductie over mezelf
 image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/master/assets/img/IMG_7490.jpg
 
 
