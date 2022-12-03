@@ -1,23 +1,22 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2022-11-2T23:48:05.000Z
 layout: post
-title: Podcast verdwaald
-subtitle: Samen met Sharon Hutten hebben ik een verhalende podcast gemaakt over haar epilepsieaanval. We hebben samen het script geschreven, opnames met de Zoom H5 gemaakt en dit gemonteerd met Adobe Audition.
-description: Samen met Sharon Hutten hebben ik een verhalende podcast gemaakt over haar epilepsieaanval. We hebben samen het script geschreven, opnames met de Zoom H5 gemaakt en dit gemonteerd met Adobe Audition.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
-category: life
+title: HU Korte Film - Laura
+subtitle: 'Tijdens mijn studie heb ik met Jetske de Groot een korte film gemaakt met als onderwerp eenzaamheid. Ik had als taak de script, de cameravoering en montage.'
+description: >-
+  Tijdens mijn studie heb ik met Jetske de Groot een korte film gemaakt met als onderwerp eenzaamheid. Ik had als taak de script, de cameravoering en montage.
+  
+image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/master/assets/img/viv.jpeg
+
+
+optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png
+category: blog
 tags:
-  - books
-  - read
-author: mranderson
+  - welcome
+  - blog
+author: Vivièn Hakverdi
 paginate: true
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/duPxM3Yp3Tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SHN4oW63A4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="840" height="630" src="https://www.youtube.com/embed/SHN4oW63A4s" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
