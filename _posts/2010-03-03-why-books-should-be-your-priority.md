@@ -4,14 +4,14 @@ layout: post
 title: Introductie
 subtitle: Een korte introductie van mezelf
 description: >-
-image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/master/assets/img/viv.jpeg
+image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/master/assets/img/IMG_7490.jpg
 
 
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png
+optimized_image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/master/assets/img/IMG_7490.jpg
 category: blog
 tags:
   - welcome
-  - blog
+  - portfolio
 author: Vivièn Hakverdi
 paginate: true
 ---
