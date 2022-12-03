@@ -6,10 +6,10 @@ subtitle: 'Tijdens mijn studie heb ik met Jetske de Groot een korte film gemaakt
 description: >-
   Tijdens mijn studie heb ik met Jetske de Groot een korte film gemaakt met als onderwerp eenzaamheid. Ik had als taak de script, de cameravoering en montage.
  
-image: https://www.youtube.com/embed/SHN4oW63A4s
+image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/master/assets/img/Screenshot%20from%202022-12-03%2014-11-22.png
 
 
-optimized_image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/master/assets/img/viv.jpeg
+optimized_image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/master/assets/img/Screenshot%20from%202022-12-03%2014-11-22.png
 category: blog
 tags:
   - welcome
