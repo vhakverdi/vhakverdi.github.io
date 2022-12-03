@@ -1,21 +1,18 @@
 ---
-date: 2018-10-09 12:26:40
+date: 2018-11-22 12:26:40
 layout: post
-title: Commercial Fentimans
-subtitle: Voor een schoolopdracht ben ik met paar klasgenoten bezig geweest om een commercial te maken voor het merk Fentimans. We hebben hierbij gebruik gemaakt van de camera Blackmagic. Mijn taak was om alles te monteren, hier heb ik veel tijd gestopt in colour grading
-description: Voor een schoolopdracht ben ik met paar klasgenoten bezig geweest om een commercial te maken voor het merk Fentimans. We hebben hierbij gebruik gemaakt van de camera Blackmagic. Mijn taak was om alles te monteren, hier heb ik veel tijd gestopt in colour grading
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1506079212/jekflix-capa_vfhuzh.png
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png
-category: css
+title: Podcast verdwaald
+subtitle: Samen met Sharon Hutten hebben ik een verhalende podcast gemaakt over haar epilepsieaanval. We hebben samen het script geschreven, opnames met de Zoom H5 gemaakt en dit gemonteerd met Adobe Audition.
+description: Samen met Sharon Hutten hebben ik een verhalende podcast gemaakt over haar epilepsieaanval. We hebben samen het script geschreven, opnames met de Zoom H5 gemaakt en dit gemonteerd met Adobe Audition.
+image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
+optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+category: life
 tags:
-  - commercial
-  - colour grading
-author: Vivièn Hakverdi
+  - books
+  - read
+author: mranderson
+paginate: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HTw17MDMp38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/duPxM3Yp3Tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
