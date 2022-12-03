@@ -12,8 +12,7 @@ image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/mas
 optimized_image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/master/assets/img/Screenshot%20from%202022-12-03%2014-11-22.png
 category: blog
 tags:
-  - welcome
-  - blog
+  - short movie
 author: Vivièn Hakverdi
 paginate: true
 ---
