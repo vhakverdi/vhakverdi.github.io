@@ -1,8 +1,8 @@
 ---
 date: 2022-11-2T23:48:05.000Z
 layout: post
-title: Project 1
-subtitle: 'Een kijkje naar mijn vorige projecten'
+title: HU Korte Film - Laura
+subtitle: 'Tijdens mijn studie heb ik met Jetske de Groot een korte film gemaakt met als onderwerp eenzaamheid. Ik had als taak de script, de cameravoering en montage.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
@@ -18,8 +18,7 @@ tags:
 author: Vivièn Hakverdi
 paginate: true
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SHN4oW63A4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![My image Name](/assets/img/viv.jpeg)
-![Vivien foto](/assets/img/viv.jpeg)
-<iframe width="840" height="630" src="https://www.youtube.com/embed/NQ3d2C7j0U4" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="840" height="630" src="https://www.youtube.com/embed/SHN4oW63A4s" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NQ3d2C7j0U4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
