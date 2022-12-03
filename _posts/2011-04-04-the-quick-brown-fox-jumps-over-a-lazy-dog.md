@@ -8,8 +8,7 @@ image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/mas
 optimized_image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/master/assets/img/Screenshot%20from%202022-12-03%2014-16-24.png
 category: life
 tags:
-  - books
-  - read
+  - podcast
 author: mranderson
 paginate: true
 ---
