@@ -2,10 +2,8 @@
 date: 2022-11-2T23:48:05.000Z
 layout: post
 title: Introductie
-subtitle: intro
+subtitle: Een korte introductie van mezelf
 description: >-
-  Tijdens mijn studie heb ik met Jetske de Groot een korte film gemaakt met als onderwerp eenzaamheid. Ik had als taak de script, de cameravoering en montage.
- 
 image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/master/assets/img/viv.jpeg
 
 
@@ -17,6 +15,4 @@ tags:
 author: Vivièn Hakverdi
 paginate: true
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SHN4oW63A4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="840" height="630" src="https://www.youtube.com/embed/SHN4oW63A4s" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
+Ik ben Vivièn Hakverdi. Ik ben derdejaars Creative Business aan Saxion in Enschede. Tijdens mijn studie heb ik verschillende commercials, een podcast, promo video’s mogen maken en heb een live talk show gehost. Mijn taken waren: filmen, monteren en productie (interviews, voxpop, regelen van mensen). Momenteel doe ik een minor Creative Storytelling aan de Hogeschool Utrecht. Hier leer ik de kunst van verhalen vertellen. Ik heb de afgelopen maanden onder meer een short movie, een podcast en een theatervoorstelling mogen maken. 
