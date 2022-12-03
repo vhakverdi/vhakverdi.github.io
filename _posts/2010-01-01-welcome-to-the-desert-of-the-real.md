@@ -1,8 +1,8 @@
 ---
 date: 2022-11-2T23:48:05.000Z
 layout: post
-title: HU Korte Film - Laura
-subtitle: 'Tijdens mijn studie heb ik met Jetske de Groot een korte film gemaakt met als onderwerp eenzaamheid. Ik had als taak de script, de cameravoering en montage.'
+title: Introductie
+subtitle: intro
 description: >-
   Tijdens mijn studie heb ik met Jetske de Groot een korte film gemaakt met als onderwerp eenzaamheid. Ik had als taak de script, de cameravoering en montage.
   
