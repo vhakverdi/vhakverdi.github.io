@@ -4,8 +4,8 @@ layout: post
 title: Commercial print.com
 subtitle: Met een paar klasgenoten hebben wij een commercial gemaakt voor de opdrachtgever print. com. Ik heb geholpen met filmen en heb het alleen gemonteerd tot een geheel.
 description: Met een paar klasgenoten hebben wij een commercial gemaakt voor de opdrachtgever print. com. Ik heb geholpen met filmen en heb het alleen gemonteerd tot een geheel.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
+image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/master/assets/img/Screenshot%20from%202022-12-03%2014-24-07.png
+optimized_image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/master/assets/img/Screenshot%20from%202022-12-03%2014-24-07.png
 category: code
 tags:
   - commercial
