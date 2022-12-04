@@ -8,7 +8,7 @@ image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/mas
 
 
 optimized_image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/master/assets/img/IMG_7490.jpg
-category: blog
+category: Introductie
 tags:
   - welcome
   - portfolio
