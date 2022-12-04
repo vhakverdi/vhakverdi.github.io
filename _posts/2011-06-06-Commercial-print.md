@@ -6,7 +6,7 @@ subtitle: Met een paar klasgenoten hebben wij een commercial gemaakt voor de opd
 description: Met een paar klasgenoten hebben wij een commercial gemaakt voor de opdrachtgever print. com. Ik heb geholpen met filmen en heb het alleen gemonteerd tot een geheel.
 image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/master/assets/img/Screenshot%20from%202022-12-03%2014-24-07.png
 optimized_image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/master/assets/img/Screenshot%20from%202022-12-03%2014-24-07.png
-category: code
+category: ''
 tags:
   - commercial
 author: Vivièn Hakverdi
