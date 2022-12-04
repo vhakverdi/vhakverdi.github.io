@@ -6,7 +6,7 @@ subtitle: Voor een schoolopdracht ben ik met paar klasgenoten bezig geweest om e
 description: Voor een schoolopdracht ben ik met paar klasgenoten bezig geweest om een commercial te maken voor het merk Fentimans. We hebben hierbij gebruik gemaakt van de camera Blackmagic. Mijn taak was om alles te monteren, hier heb ik veel tijd gestopt in colour grading
 image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/master/assets/img/Screenshot%20from%202022-12-03%2014-19-58.png
 optimized_image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/master/assets/img/Screenshot%20from%202022-12-03%2014-19-58.png
-category: css
+category: ''
 tags:
   - commercial
   - colour grading
