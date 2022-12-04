@@ -1,5 +1,5 @@
 ---
-date: 2018-10-09 12:26:40
+date: 2022-11-2T10:48:05.000Z
 layout: post
 title: Commercial Fentimans
 subtitle: Voor een schoolopdracht ben ik met paar klasgenoten bezig geweest om een commercial te maken voor het merk Fentimans. We hebben hierbij gebruik gemaakt van de camera Blackmagic. Mijn taak was om alles te monteren, hier heb ik veel tijd gestopt in colour grading
