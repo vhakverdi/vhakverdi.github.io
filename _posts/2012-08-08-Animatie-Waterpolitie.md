@@ -1,5 +1,5 @@
 ---
-date: 2018-03-12 12:26:40
+date: 2022-11-2T10:48:05.000Z
 layout: post
 title: Animatie Waterpolitie
 subtitle: Tijdens mijn studie op Saxion voor Creative Business, zijn we bezig geweest met drie onderdelen met betrekking tot audio visueel. De drie onderdelen waren een podcast (hier was ik de interviewer),  maar ook het maken van een animatie en een trailer. De laatste twee waren mijn taken, dit is mijn animatie voor de podcast Waterpolitie.
