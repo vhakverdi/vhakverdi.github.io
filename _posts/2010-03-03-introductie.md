@@ -13,7 +13,6 @@ tags:
   - welcome
   - portfolio
 author: Vivièn Hakverdi
-paginate: false
 ---
 Ik ben Vivièn Hakverdi. Ik ben derdejaars student Creative Business aan Saxion in Enschede. Tijdens mijn studie heb ik verschillende commercials, een podcast, promo video’s mogen maken en heb ik een live talk show gehost. Mijn taken waren: filmen, monteren en productie (interviews, voxpop, regelen van mensen). Momenteel doe ik een minor Creative Storytelling aan de Hogeschool Utrecht. Hier leer ik de kunst van verhalen vertellen. Ik heb de afgelopen maanden onder meer een short movie, een podcast en een theatervoorstelling mogen maken. In mijn vrije tijd pas ik wat ik leer toe in een serie goed bekeken persoonlijke comedyfilmpjes op [Tiktok](https://www.tiktok.com/@violet.verdii?_t=8Xs2XpNfr0f&_r=1)
 
