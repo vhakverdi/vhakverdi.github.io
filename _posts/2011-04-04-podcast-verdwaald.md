@@ -9,8 +9,8 @@ optimized_image: https://raw.githubusercontent.com/moscovium115/moscovium115.git
 category: life
 tags:
   - podcast
-author: mranderson
-paginate: true
+author: Vivièn Hakverdi
+paginate: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/duPxM3Yp3Tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
