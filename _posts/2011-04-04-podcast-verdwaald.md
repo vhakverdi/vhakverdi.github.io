@@ -6,7 +6,7 @@ subtitle: Samen met Sharon Hutten hebben ik een verhalende podcast gemaakt over 
 description: Samen met Sharon Hutten hebben ik een verhalende podcast gemaakt over haar epilepsieaanval. We hebben samen het script geschreven, opnames met de Zoom H5 gemaakt en dit gemonteerd met Adobe Audition.
 image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/master/assets/img/Screenshot%20from%202022-12-03%2014-16-24.png
 optimized_image: https://raw.githubusercontent.com/moscovium115/moscovium115.github.io/master/assets/img/Screenshot%20from%202022-12-03%2014-16-24.png
-category: life
+category: ''
 tags:
   - podcast
 author: Vivièn Hakverdi
