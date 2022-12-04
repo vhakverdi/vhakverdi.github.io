@@ -1,5 +1,5 @@
 ---
-date: 2022-10-2T23:48:05.000Z
+date: 2022-10-2T22:48:05.000Z
 layout: post
 title: Commercial print.com
 subtitle: Met een paar klasgenoten hebben wij een commercial gemaakt voor de opdrachtgever print.com. Ik heb geholpen met het filmen en heb het gemonteerd tot een geheel.
