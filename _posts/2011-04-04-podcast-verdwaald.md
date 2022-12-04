@@ -1,5 +1,5 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2022-11-2T23:48:05.000Z
 layout: post
 title: Podcast verdwaald
 subtitle: Samen met Sharon Hutten hebben ik een verhalende podcast gemaakt over haar epilepsieaanval. We hebben samen het script geschreven, opnames met de Zoom H5 gemaakt en dit gemonteerd met Adobe Audition.
