@@ -9,6 +9,7 @@ tags:
   - theme
   - netlify
 show_hero: true
+paginate: 4
 menu:
   - title: Home
     url: /
