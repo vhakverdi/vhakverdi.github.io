@@ -1,5 +1,5 @@
 ---
-date: 2022-11-2T23:48:05.000Z
+date: 2024-08-10T23:48:05.000Z
 layout: post
 title: Introductie
 subtitle: Een korte introductie over mezelf
