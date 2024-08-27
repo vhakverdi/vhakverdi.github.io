@@ -20,7 +20,7 @@ Daarnaast heb ik een minor Creative Storytelling aan Hogeschool Utrecht afgerond
 
 Verder heb ik gewerkt aan projecten met maatschappelijke vraagstukken, zoals laagfrequent geluid, waarbij ik samen met een groep studenten een conceptuele podcastserie heb bedacht, en laaggeletterdheid, waarvoor ik mijn afstudeeropdracht heb uitgevoerd.
 
-In mijn vrije tijd pas ik mijn kennis toe door me te verdiepen het maken van persoonlijke comedyvideo's op [Tiktok](https://www.tiktok.com/@violet.verdii?_t=8Xs2XpNfr0f&_r=1). Hierdoor heb ik ervaring opgedaan in het bereiken van verschillende doelgroepen en het verkennen van diverse uitingsvormen. 
+In mijn vrije tijd pas ik mijn kennis toe door me te verdiepen in visuele communicatie en het maken van persoonlijke comedyvideo's op [Tiktok](https://www.tiktok.com/@violet.verdii?_t=8Xs2XpNfr0f&_r=1). Hierdoor heb ik ervaring opgedaan in het bereiken van verschillende doelgroepen en het verkennen van diverse uitingsvormen. 
 
 
 In deze portfolio is mijn werk te vinden.
