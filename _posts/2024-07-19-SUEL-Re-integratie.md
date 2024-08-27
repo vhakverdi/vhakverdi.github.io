@@ -1,26 +1,25 @@
 ---
 date: 2022-09-2T10:48:05.000Z
 layout: post
-title: TT Media
-subtitle: Tijdens mijn derde studiejaar aan Hogeschool Saxion heb ik een uitdagende en leerzame stage van een half jaar gelopen bij TT Media, een videoproductiebedrijf. 
+title: SUEL Re-ingratie
+subtitle: Tijdens mijn afstudeerstage in het laatste halfjaar van mijn studie aan Hogeschool Saxion heb ik me gericht op het verbeteren van de communicatie over SUEL Re-integratie voor (anderstalige) laaggeletterden. 
 
-description: Tijdens mijn stage bij TT Media, een videoproductiebedrijf, heb ik verschillende rollen vervuld. Ik heb me gespecialiseerd in montagewerk, het ontwikkelen van nieuwe concepten en het uitvoeren van een strategische analyse voor het bedrijf.
+description: Mijn afstudeerstage heb ik uitgevoerd bij SUEL Re-integratie, waar ik me heb gericht op het toegankelijker maken van informatie voor (anderstalige) laaggeletterden.
 
 
 image: https://raw.githubusercontent.com/vhakverdi/vhakverdi.github.io/master/assets/img/viv_camera_tt_stage.jpg
 optimized_image: https://raw.githubusercontent.com/vhakverdi/vhakverdi.github.io/master/assets/img/viv_camera_tt_stage.jpg
 category: ''
 tags:
-  - Premiere Pro
-  - Stage
+  - Communicatie
+  - Afstudeerstage
 author: Vivièn Hakverdi
 ---
-Gedurende deze periode heb ik mij vooral gericht op montagewerk in Adobe Premiere Pro, waarin ik mij heb gespecialiseerd. Door het vele montagewerk heb ik veel geleerd over geluids- en kleurbewerking, evenals het selecteren van de juiste muziek en effecten. Een van de belangrijkste projecten die ik heb uitgevoerd, was de documentaire "Skills the Finals." Naast de montage heb ik ook geholpen met filmen en het verzorgen van het geluid. Verder heb ik bijgedragen aan de ontwikkeling van nieuwe formats en concepten, waarbij ik mijn creatieve inzichten heb ingezet. 
+Laaggeletterdheid is een groot maatschappelijk probleem in Nederland dat kan leiden tot nog grotere communicatieproblemen in de toekomst. Mensen met laaggeletterdheid kunnen vaak wel lezen, maar begrijpen niet altijd wat er staat. Dit kan hun kansen in het leven verkleinen en zelfs tot ernstige problemen leiden.
 
-Naast deze praktische werkzaamheden heb ik ook een strategische analyse uitgevoerd om te onderzoeken hoe TT Media zich in de markt positioneert. Deze analyse gaf het bedrijf bruikbare inzichten, die ze direct hebben toegepast. Uiteindelijk heb ik mijn stage bij TT Media met een 9 afgerond.
+Om hier een bijdrage aan te leveren, heb ik laaggeletterdheid grondig onderzocht door interviews af te nemen en een kritische analyse uit te voeren. Voor SUEL Re-integratie heb ik een gedetailleerd onderzoeksrapport opgesteld, communicatierichtlijnen ontwikkeld om de informatie toegankelijker te maken voor (anderstalige) laaggeletterden, en een [extra webpagina] (https://xd.adobe.com/view/f23ddd67-ceed-4384-9bd2-1da5ab90b380-a76e/?fullscreen) gecreëerd om de informatie en vormgeving effectiever te maken voor deze doelgroep. Deze afstudeeropdracht heb ik succesvol afgerond met een 9.
 
-
-Benieuwd naar mijn werk? Neem dan een kijkje op mijn [Instagram-account](https://www.instagram.com/violet.verdii/?utm_source=qr), waar ik een selectie van mijn projecten deel en je een indruk krijgt van mijn creatieve proces tijdens mijn stageperiode bij TT Media. 
+Tijdens deze periode heb ik veel geleerd. Het is mij duidelijk geworden dat het belangrijk is om eerst het probleem goed in kaart te brengen, vervolgens te begrijpen wat de doelgroep nodig heeft, en pas daarna de juiste communicatiemethode te kiezen. Vaak wordt de communicatiemethode als eerste gekozen, wat niet altijd effectief is voor de behoeften van de doelgroep. Daarnaast heb ik geleerd om zelfstandig te werken, snel te schakelen en te werken met Adobe Illustrator en XD voor het ontwerpen van websites.
 
 
 
