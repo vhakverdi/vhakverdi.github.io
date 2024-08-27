@@ -7,8 +7,8 @@ subtitle: Tijdens mijn afstudeerstage in het laatste halfjaar van mijn studie aa
 description: Mijn afstudeerstage heb ik uitgevoerd bij SUEL Re-integratie, waar ik me heb gericht op het toegankelijker maken van informatie voor (anderstalige) laaggeletterden.
 
 
-image: https://raw.githubusercontent.com/vhakverdi/vhakverdi.github.io/master/assets/img/viv_camera_tt_stage.jpg
-optimized_image: https://raw.githubusercontent.com/vhakverdi/vhakverdi.github.io/master/assets/img/viv_camera_tt_stage.jpg
+image: https://raw.githubusercontent.com/vhakverdi/vhakverdi.github.io/master/assets/img/suel_personen.png
+optimized_image: https://raw.githubusercontent.com/vhakverdi/vhakverdi.github.io/master/assets/img/suel_personen.png
 category: ''
 tags:
   - Communicatie
