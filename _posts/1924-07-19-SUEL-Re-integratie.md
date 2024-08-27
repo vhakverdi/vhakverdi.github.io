@@ -1,5 +1,5 @@
 ---
-date: 2024-09-2T10:48:05.000Z
+date: 2024-08-2T10:48:05.000Z
 layout: post
 title: SUEL Re-integratie
 subtitle: Tijdens mijn afstudeerstage in het laatste halfjaar van mijn studie aan Hogeschool Saxion heb ik me gericht op het verbeteren van de communicatie over SUEL Re-integratie voor (anderstalige) laaggeletterden. 
