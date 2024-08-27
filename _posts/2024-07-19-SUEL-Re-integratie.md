@@ -1,7 +1,7 @@
 ---
 date: 2022-09-2T10:48:05.000Z
 layout: post
-title: SUEL Re-ingratie
+title: SUEL Re-integratie
 subtitle: Tijdens mijn afstudeerstage in het laatste halfjaar van mijn studie aan Hogeschool Saxion heb ik me gericht op het verbeteren van de communicatie over SUEL Re-integratie voor (anderstalige) laaggeletterden. 
 
 description: Mijn afstudeerstage heb ik uitgevoerd bij SUEL Re-integratie, waar ik me heb gericht op het toegankelijker maken van informatie voor (anderstalige) laaggeletterden.
